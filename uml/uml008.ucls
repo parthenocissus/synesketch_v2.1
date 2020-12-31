@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="synesketch.art.util.SynesketchVisualization" project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/util/SynesketchVisualization.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="168" x="-86" y="91"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualization" project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualization.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="356" width="166" x="-84" y="486"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="synesketch.art.sketch.hooloovoo.HooloovooVisualization" project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/hooloovoo/HooloovooVisualization.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="122" width="166" x="-85" y="333"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationHappiness.SynemaniaHappinessParticle" 
+    project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationHappiness.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="473" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationHappiness" 
+    project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationHappiness.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="219" x="139" y="91"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationSadness.SynemaniaSadnessParticle" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationSadness.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="188" x="379" y="222"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationSadness" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationSadness.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="213" x="142" y="241"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationAnger" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationAnger.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="213" x="142" y="379"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationAnger.SynemaniaAngerParticle" project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationAnger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="189" x="378" y="373"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationFear" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationFear.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="145" y="519"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationFear.SynemaniaFearParticle" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationFear.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="187" x="380" y="508"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationDisgust" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationDisgust.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="146" y="657"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationDisgust.SynemaniaDisgustParticle" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationDisgust.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="185" x="381" y="644"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationSurprise.SynemaniaSurpriseParticle" 
+    project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationSurprise.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="472" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationSurprise" 
+    project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationSurprise.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="147" y="792"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="synesketch.art.sketch.synemania.SynemaniaVisualizationNeutral.SynemaniaNeutralParticle" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationNeutral.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="178" x="385" y="924"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="synesketch.art.sketch.synemania.SynemaniaVisualizationNeutral" 
+    project="Synesketch2.1" file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaVisualizationNeutral.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="147" y="941"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="synesketch.art.sketch.synemania.SynemaniaParticle" project="Synesketch2.1" 
+    file="/Synesketch2.1/src/synesketch/art/sketch/synemania/SynemaniaParticle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="153" x="756" y="99"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="19">    
+    <bendpoint x="833" y="662"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="20" name="particles"/>      
+      <multiplicity id="21" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <nesting id="24">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <nesting id="25">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <generalization id="26">    
+    <bendpoint x="129" y="373"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <nesting id="29">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="35">    
+    <bendpoint x="121" y="139"/>    
+    <bendpoint x="104" y="434"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="36">    
+    <bendpoint x="106" y="431"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <nesting id="38">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="44">    
+    <bendpoint x="101" y="906"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="46">    
+    <bendpoint x="126" y="386"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <nesting id="47">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <nesting id="50">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <nesting id="51">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
