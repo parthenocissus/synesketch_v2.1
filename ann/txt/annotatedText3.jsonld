@@ -1,0 +1,77 @@
+{
+  "@graph" : [ {
+    "@id" : "http://krcadinac.com/synesketch/",
+    "@type" : "prov:Agent"
+  }, {
+    "@id" : "http://krcadinac.com/synesketch/Analysis/1471208954516463",
+    "@type" : "onyx:EmotionAnalysis",
+    "dc:language" : "en",
+    "onyx:algorithm" : "Synesketch",
+    "usesEmotionModel" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#big6",
+    "generated" : "http://krcadinac.com/synesketch/EmotionSet/1471208954516463",
+    "wasAssociatedWith" : "http://krcadinac.com/synesketch/"
+  }, {
+    "@id" : "http://krcadinac.com/synesketch/EmotionSet/1471208954516463",
+    "@type" : "onyx:EmotionSet",
+    "onyx:extractedFrom" : " wow",
+    "hasEmotion" : [ "http://krcadinac.com/synesketch/Surprise/1471208954516463", "http://krcadinac.com/synesketch/Happiness/1471208954516463" ]
+  }, {
+    "@id" : "http://krcadinac.com/synesketch/Happiness/1471208954516463",
+    "@type" : "onyx:Emotion",
+    "hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#happiness",
+    "hasEmotion:Intensity" : 0.5
+  }, {
+    "@id" : "http://krcadinac.com/synesketch/Surprise/1471208954516463",
+    "@type" : "onyx:Emotion",
+    "hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#surprise",
+    "hasEmotion:Intensity" : 1.0
+  } ],
+  "@context" : {
+    "hasEmotionIntensity" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionIntensity",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "hasEmotionCategory" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory",
+      "@type" : "@id"
+    },
+    "hasEmotion" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotion",
+      "@type" : "@id"
+    },
+    "extractedFrom" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#extractedFrom",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "generated" : {
+      "@id" : "http://www.w3.org/ns/prov#generated",
+      "@type" : "@id"
+    },
+    "wasAssociatedWith" : {
+      "@id" : "http://www.w3.org/ns/prov#wasAssociatedWith",
+      "@type" : "@id"
+    },
+    "usesEmotionModel" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#usesEmotionModel",
+      "@type" : "@id"
+    },
+    "language" : {
+      "@id" : "http://purl.org/dc/terms/language",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "algorithm" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#algorithm",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "irsrdf" : "http://www.w3.org/2005/11/its/rdf#",
+    "owl" : "http://www.w3.org/2002/07/owl#",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "onyx" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#",
+    "nif" : "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#",
+    "marl" : "http://www.gsi.dit.upm.es/ontologies/marl#",
+    "prov" : "http://www.w3.org/ns/prov#",
+    "dc" : "http://purl.org/dc/terms/"
+  }
+}

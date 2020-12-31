@@ -1,0 +1,13 @@
+{
+  "@id": "http://krcadinac.com/synesketch/synemania/anger0",
+  "@type": "http://schema.org/SoftwareSourceCode",
+  "http://schema.org/name": "synesketch.art.sketch.synemania.SynemaniaVisualizationAnger",
+  "http://schema.org/codeRepository": "http://krcadinac.com/synesketch/",
+  "http://schema.org/programmingLanguage": "Java",
+  "http://schema.org/runtimePlatform": "Java v5",
+  "http://schema.org/description": "An evocative visualization (generative animation) of anger, defined by the Synesketch's visualization system Synemania, taking form of fast, intense and dense radial lines",
+  "http://schema.org/genre": "Abstract Evocative Animation",
+  "http://schema.org/fileFormat": "Java",
+  "http://schema.org/keywords": "fast,red,angry,mad,furious,center,radial,strong,full,particle,physics,simulation,generative,fire,blood,burning,explosion,flame",
+  "http://schema.org/mainEntity": "http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#anger"
+}

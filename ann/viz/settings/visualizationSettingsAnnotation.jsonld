@@ -1,0 +1,52 @@
+{
+  "@graph" : [ {
+  	"@id" : "http://krcadinac.com/synesketch/emotion2", 
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationAnger",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#anger"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion4",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationDisgust",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#disgust"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion6",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationNeutral",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#neutral-emotion"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion3",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationFear",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#fear"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion0",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationHappiness",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#happiness"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion1",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationSadness",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#sadness"
+  }, {
+  	"@id" : "http://krcadinac.com/synesketch/emotion5",
+    "@type" : "http://schema.org/SoftwareSourceCode",
+    "http://schema.org/name" : "synesketch.art.sketch.synemania.SynemaniaVisualizationSurprise",
+    "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory" : "http://www.gsi.dit.upm.es/ontologies/onyx/vocabularies/emotionml/ns#surprise"
+  } ],
+  "@context" : {
+    "hasEmotionCategory" : {
+      "@id" : "http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "genre" : {
+      "@id" : "http://schema.org/genre",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "description" : {
+      "@id" : "http://schema.org/description",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    }
+  }
+}
